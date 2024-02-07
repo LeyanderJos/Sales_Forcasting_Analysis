@@ -27,7 +27,8 @@ Visualizations for this project have been created using both Power BI and Tablea
 Sales Forcasting Dashboard - Power BI
 
 
- 
+ ![image](https://github.com/LeyanderJos/Sales_Forcasting_Analysis/assets/135812635/a239800e-f543-4d89-a799-04dd103b14bd)
+
 
 
 Sales Prediction:
