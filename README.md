@@ -24,7 +24,7 @@ Visualizations:
 
 Visualizations for this project have been created using both Power BI and Tableau. Here are links to the interactive dashboards.
 
-Sales Forcasting Dashboard - Power BI
+https://app.powerbi.com/groups/me/reports/e47b8bc0-d98e-4ac1-a1da-9b0a46501293/ReportSectiondf4e43142765aec129e7?experience=power-bi
 
 
  ![image](https://github.com/LeyanderJos/Sales_Forcasting_Analysis/assets/135812635/a239800e-f543-4d89-a799-04dd103b14bd)
